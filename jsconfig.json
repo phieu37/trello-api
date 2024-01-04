@@ -1,0 +1,10 @@
+/**
+ * Ctrl + click vào thằng nào nhảy vào thằng đó
+ */
+{
+  "compilerOptions": {
+    "paths": {
+      "~/*": ["./src/*"],
+    },
+  }
+}
